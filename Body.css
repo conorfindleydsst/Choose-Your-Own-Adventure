@@ -1,0 +1,41 @@
+@font-face {
+  font-family: RansomNote;
+  src: url(Got_Heroin.ttf);
+}
+
+body{
+  background-color: black;
+  text-align: center;
+}
+
+p{
+  font-size: 60px;
+  font-family: RansomNote;
+  color: #990000;
+  margin-top: 10px;
+}
+
+a:link{
+  color: #990000;
+  text-decoration: none;
+  font-size: 50px;
+  font-family: RansomNote;
+}
+
+a:hover{
+  color: white;
+}
+
+a:visited{
+  color: #990000;
+}
+
+.Start-Over{
+  display: inline;;
+  outline: #990000 solid thick;
+}
+
+.Children-of-the-Corn{
+  display: inline;;
+  outline: #990000 solid thick;
+}
